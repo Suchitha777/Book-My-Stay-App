@@ -5,7 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d43c9de8-147d-4c40-99c8-da8a99b83fbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UseCase10BookingCancellation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book My Stay App/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book My Stay App/src/UC1_WelcomeMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book My Stay App/src/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Book My Stay App/AddOnService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Book My Stay App/AddOnServiceManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Book My Stay App/BookingCancellationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Book My Stay App/BookingHistory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Book My Stay App/BookingReportService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Book My Stay App/BookingRequestQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Book My Stay App/DoubleRoom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Book My Stay App/InvalidBookingException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Book My Stay App/Reservation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Book My Stay App/ReservationValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Book My Stay App/Room.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Book My Stay App/RoomAllocationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Book My Stay App/RoomInventory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Book My Stay App/RoomSearchService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Book My Stay App/SingleRoom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Book My Stay App/SuiteRoom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Book My Stay App/UseCase10BookingCancellation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Book My Stay App/UseCase1HotelBookingApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Book My Stay App/UseCase2RoomInitialization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Book My Stay App/UseCase3InventorySetup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Book My Stay App/UseCase4RoomSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Book My Stay App/UseCase5BookingRequestQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Book My Stay App/UseCase6RoomAllocationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Book My Stay App/UseCase7AddOnServiceSelection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Book My Stay App/UseCase8BookingHistoryReport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Book My Stay App/UseCase9ErrorHandlingValidation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Book My Stay App/main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,44 +79,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.UseCase10BookingCancellation.executor": "Run",
-    "Application.UseCase1HotelBookingApp.executor": "Run",
-    "Application.UseCase2RoomInitialization.executor": "Run",
-    "Application.UseCase3InventorySetup.executor": "Run",
-    "Application.UseCase4RoomSearch.executor": "Run",
-    "Application.UseCase5BookingRequestQueue.executor": "Run",
-    "Application.UseCase6RoomAllocationService.executor": "Run",
-    "Application.UseCase7AddOnServiceSelection.executor": "Run",
-    "Application.UseCase8BookingHistoryReport.executor": "Run",
-    "Application.UseCase9ErrorHandlingValidation.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "develop",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Admin/Desktop/B1P2-RA2411030010225",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.UseCase10BookingCancellation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UseCase1HotelBookingApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UseCase2RoomInitialization.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UseCase3InventorySetup.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UseCase4RoomSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UseCase5BookingRequestQueue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UseCase6RoomAllocationService.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UseCase7AddOnServiceSelection.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UseCase8BookingHistoryReport.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UseCase9ErrorHandlingValidation.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Desktop/B1P2-RA2411030010225&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.32098.37" />
       </set>
     </attachedChunks>
   </component>
@@ -98,6 +129,7 @@
       <option name="presentableId" value="Default" />
       <updated>1773224081950</updated>
       <workItem from="1773224083046" duration="2531000" />
+      <workItem from="1774196550661" duration="147000" />
     </task>
     <servers />
   </component>
