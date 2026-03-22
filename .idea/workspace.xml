@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d43c9de8-147d-4c40-99c8-da8a99b83fbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UseCase8BookingHistoryReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCase10BookingCancellation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +52,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.UseCase10BookingCancellation.executor": "Run",
     "Application.UseCase1HotelBookingApp.executor": "Run",
     "Application.UseCase2RoomInitialization.executor": "Run",
     "Application.UseCase3InventorySetup.executor": "Run",
@@ -60,6 +61,7 @@
     "Application.UseCase6RoomAllocationService.executor": "Run",
     "Application.UseCase7AddOnServiceSelection.executor": "Run",
     "Application.UseCase8BookingHistoryReport.executor": "Run",
+    "Application.UseCase9ErrorHandlingValidation.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
