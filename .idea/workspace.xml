@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d43c9de8-147d-4c40-99c8-da8a99b83fbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UseCase1HotelBookingApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCase2RoomInitialization.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +53,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.UseCase1HotelBookingApp.executor": "Run",
+    "Application.UseCase2RoomInitialization.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
