@@ -2,8 +2,10 @@ import java.util.HashMap;
 import java.util.Map;
 
 class RoomInventory {
+
     private Map<String, Integer> inventory;
 
+    // Constructor
     RoomInventory() {
         inventory = new HashMap<>();
         inventory.put("Single Room", 5);
@@ -11,8 +13,14 @@ class RoomInventory {
         inventory.put("Suite Room", 2);
     }
 
+    // EXISTING METHOD
     int getAvailability(String roomType) {
         return inventory.getOrDefault(roomType, 0);
+    }
+
+    // ✅ ADD THIS METHOD HERE
+    void updateAvailability(String roomType, int count) {
+        inventory.put(roomType, count);
     }
 }
 
