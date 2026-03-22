@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d43c9de8-147d-4c40-99c8-da8a99b83fbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UseCase6RoomAllocationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UseCase3InventorySetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UseCase3InventorySetup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCase8BookingHistoryReport.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +58,8 @@
     "Application.UseCase4RoomSearch.executor": "Run",
     "Application.UseCase5BookingRequestQueue.executor": "Run",
     "Application.UseCase6RoomAllocationService.executor": "Run",
+    "Application.UseCase7AddOnServiceSelection.executor": "Run",
+    "Application.UseCase8BookingHistoryReport.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
